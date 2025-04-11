@@ -22,3 +22,5 @@ Tabs.Main:AddParagraph({
         Title = "Script info",
         Content = "I created this version because old script not stable now and don't editable :(/nAuthor: aftermath-dev"
     })
+
+local Options = Fluent.Options
