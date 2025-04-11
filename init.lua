@@ -2,6 +2,7 @@ local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/AntiOd
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/AntiOderHubLtd/ThereIsASecretRepoButYouCantSkid/refs/heads/main/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/AntiOderHubLtd/ThereIsASecretRepoButYouCantSkid/refs/heads/main/InterfaceManager.lua"))()
 
+local Show_Button = true
 local Window = Fluent:CreateWindow({
     Title = "AntiOder Hub TROLL",
     SubTitle = "antioderhub.lol",
